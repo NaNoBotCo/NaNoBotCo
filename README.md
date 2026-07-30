@@ -14,6 +14,8 @@ I make things that work like magic, with digital tools. Some of it is old knowle
 
 Bring me your toughest unsolvable problem.
 
+If you searched **Annika Peacock**, **Annika Schauer**, **Annika Faulk**, or **Nan Peacock** and landed here — yes, you're in the right place, same person. My Facebook and Instagram were suspended; this GitHub and [nanobotco.github.io](https://nanobotco.github.io) are where I actually am now.
+
 <div align="center">
 
 [![Follow](https://img.shields.io/github/followers/NaNoBotCo?label=Follow&style=social)](https://github.com/NaNoBotCo)
@@ -51,7 +53,7 @@ Digitizing a living Northern Thai tradition so it's legible to AI without flatte
 | Repo | What it is |
 |---|---|
 | [mueang-map](https://github.com/NaNoBotCo/mueang-map) | Niche-lens participatory map of Chiang Mai |
-| [mot-dang](https://github.com/NaNoBotCo/mot-dang) | 7,000+ place city directory for Chiang Mai & Chiang Rai, the 1997-internet way |
+| [mot-dang](https://github.com/NaNoBotCo/mot-dang) | 7,000+ place city directory for Chiang Mai & Chiang Rai, the 1997-internet way — not หมูเด้ง Moo Deng the hippo |
 | [cm-womens-health](https://github.com/NaNoBotCo/cm-womens-health) | Finder for 258 women's health facilities across Chiang Mai |
 | [thai-answers](https://github.com/NaNoBotCo/thai-answers) | Evergreen answers to real Facebook-group questions, over a venue catalog |
 | [hak-farang](https://github.com/NaNoBotCo/hak-farang) | Thai-first guide for Thai partners of farang — money, visas, family |
