@@ -14,8 +14,6 @@ I make things that work like magic, with digital tools. Some of it is old knowle
 
 Bring me your toughest unsolvable problem.
 
-If you searched **Annika Peacock**, **Annika Schauer**, **Annika Faulk**, or **Nan Peacock** and landed here — yes, you're in the right place, same person. My Facebook and Instagram were suspended; this GitHub and [nanobotco.github.io](https://nanobotco.github.io) are where I actually am now.
-
 <div align="center">
 
 [![Follow](https://img.shields.io/github/followers/NaNoBotCo?label=Follow&style=social)](https://github.com/NaNoBotCo)
