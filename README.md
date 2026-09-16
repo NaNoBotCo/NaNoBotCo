@@ -21,7 +21,7 @@ Bring me your toughest unsolvable problem.
 
 <br/>
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=NaNoBotCo&show_icons=true&hide_border=true&bg_color=0a080d&title_color=e7c66c&text_color=cfc7d6&icon_color=d81f2c&hide=stars" alt="NaNoBotCo's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=NaNoBotCo&show_icons=true&hide_border=true&bg_color=0a080d&title_color=e7c66c&text_color=cfc7d6&icon_color=d81f2c&hide=stars,prs,issues,contribs&hide_rank=true" alt="NaNoBotCo's GitHub stats" height="165"/>
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=NaNoBotCo&layout=compact&hide_border=true&bg_color=0a080d&title_color=e7c66c&text_color=cfc7d6&langs_count=8" alt="Top languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=NaNoBotCo&hide_border=true&background=0a080d&ring=d81f2c&fire=e7c66c&currStreakLabel=e7c66c&sideLabels=cfc7d6&dates=cfc7d6" alt="GitHub streak"/>
