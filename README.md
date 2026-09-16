@@ -18,10 +18,10 @@ Bring me your toughest unsolvable problem.
 
 [![Follow](https://img.shields.io/github/followers/NaNoBotCo?label=Follow&style=social)](https://github.com/NaNoBotCo)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNaNoBotCo&label=public%20repos&query=%24.public_repos&color=e7c66c)](https://github.com/NaNoBotCo?tab=repositories)
+[![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ANaNoBotCo&query=%24.total_count&label=commits&color=e7c66c)](https://github.com/NaNoBotCo)
 
 <br/>
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=NaNoBotCo&show_icons=true&hide_border=true&bg_color=0a080d&title_color=e7c66c&text_color=cfc7d6&icon_color=d81f2c&hide=stars,prs,issues,contribs&hide_rank=true" alt="NaNoBotCo's GitHub stats" height="165"/>
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=NaNoBotCo&layout=compact&hide_border=true&bg_color=0a080d&title_color=e7c66c&text_color=cfc7d6&langs_count=8" alt="Top languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=NaNoBotCo&hide_border=true&background=0a080d&ring=d81f2c&fire=e7c66c&currStreakLabel=e7c66c&sideLabels=cfc7d6&dates=cfc7d6" alt="GitHub streak"/>
