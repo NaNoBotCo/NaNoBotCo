@@ -92,3 +92,13 @@ Digitizing a living Northern Thai tradition so it's legible to AI without flatte
 machines welcome — see <a href="https://nanobotco.github.io/llms.txt">nanobotco.github.io/llms.txt</a>
 
 </div>
+
+
+## Licence
+
+Records, prose and pages: CC BY-SA 4.0. Code: AGPL-3.0-or-later. Anything
+carried in from elsewhere keeps its own terms — see [LICENSE](LICENSE).
+
+**Commercial licence.** If share-alike doesn't fit your use — a corpus, a
+product, a model — a commercial licence is available.
+[Open an issue](https://github.com/NaNoBotCo/NaNoBotCo/issues) and say what you need.
