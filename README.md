@@ -30,6 +30,16 @@ Bring me your toughest unsolvable problem.
 
 ---
 
+### Explained, plainly — physics and maths
+
+The equations printed and read out loud, the pictures computed from them, nothing copied in.
+
+- **[black-holes](https://github.com/NaNoBotCo/black-holes)**: Black holes modelled and drawn from the equations — pictures, generators, past, present, future, legends
+- **[three-body](https://github.com/NaNoBotCo/three-body)**: The three-body problem in plain words: 13 chapters, 34 equations each read out loud, 9 periodic orbits found here rather than copied, 10 browser demos, the whole thing in 30 lines of Python
+- **[quantum-computing](https://github.com/NaNoBotCo/quantum-computing)**: The history and theory of quantum computing in plain words, with animated demos; refreshed weekly
+- **[exceptional-magic](https://github.com/NaNoBotCo/exceptional-magic)**: The octonions, triality, the magic square and E8 — computed, drawn and told plain. A reading of Lisi 2026
+- **[goin-fast](https://github.com/NaNoBotCo/goin-fast)**: A dirt-simple explainer about speed: twenty measured speeds from continental drift to light, what each one costs, and where the ceilin' is
+
 ### Living tradition — Lanna, wichaa, manuscripts
 
 Digitizing a living Northern Thai tradition so it's legible to AI without flattening it.
@@ -43,6 +53,10 @@ Digitizing a living Northern Thai tradition so it's legible to AI without flatte
 - **[st-expedite-wiki](https://github.com/NaNoBotCo/st-expedite-wiki)**: A third corpus, bilingual-transcribed: the Saint-Expédit devotional tradition
 - **[taoist-oracle](https://github.com/NaNoBotCo/taoist-oracle)**: Stdlib divination engine — I Ching, Plum Blossom, Wen Wang Gua, Bazi
 - **[lanna-almanac](https://github.com/NaNoBotCo/lanna-almanac)**: Northern-reckoning almanac widget, parity-tested against the coucal tradition
+- **[hand-poke](https://github.com/NaNoBotCo/hand-poke)**: Traditions of marking skin by hand, worldwide: 28 traditions, bilingual English and Thai, claims tiered and sourced
+- **[amulet-atlas](https://github.com/NaNoBotCo/amulet-atlas)**: Amulets, charms and talismans worldwide — one JSON record per node, fields carrying where they came from. Equal Earth maps, a deep timeline, the signs drawn
+- **[amulet-essentials](https://github.com/NaNoBotCo/amulet-essentials)**: A pan-Southeast-Asian amulet catalogue: 87 kinds in their own languages, 637 free pictures with verified licences, on-device photo identification, a price analysis of 15,300 listings
+- **[thairoots](https://github.com/NaNoBotCo/thairoots)**: รากศัพท์ Thai Roots — a Hans Wehr-style root dictionary of Thai: Pali/Sanskrit roots, native morpheme families, sound-change keys, a word decomposer
 
 ### Chiang Mai — place & city tools
 
@@ -52,6 +66,22 @@ Digitizing a living Northern Thai tradition so it's legible to AI without flatte
 - **[thai-answers](https://github.com/NaNoBotCo/thai-answers)**: Evergreen answers to real Facebook-group questions, over a venue catalog
 - **[hak-farang](https://github.com/NaNoBotCo/hak-farang)**: Thai-first guide for Thai partners of farang — money, visas, family
 - **[muak-yant-site](https://github.com/NaNoBotCo/muak-yant-site)**: Site for sacred yantra work on motorcycle helmets
+- **[chiang-mai-roads](https://github.com/NaNoBotCo/chiang-mai-roads)**: Roads of Chiang Mai — the square of 1296, four rings, the hom, and what each one did to the city. Bilingual, counted from the map
+- **[muay-thai](https://github.com/NaNoBotCo/muay-thai)**: The eight limbs, the thirty named techniques, the ceremony, and the gyms on the map. Bilingual English and Thai
+- **[mae-hong-son-loop](https://github.com/NaNoBotCo/mae-hong-son-loop)**: Motorcycling the Mae Hong Son loop: 600 km, the curves counted from OpenStreetMap geometry, four burning seasons of PM2.5, English and Thai on each page
+- **[visa-desk](https://github.com/NaNoBotCo/visa-desk)**: The site behind chiangmaivisadesk.com — bilingual, near-buildless, a 31-category visa catalogue rendered from JSON
+
+### Directories — North America
+
+One JSON record per node, fields carrying where they came from.
+
+- **[carolina-barbecue](https://github.com/NaNoBotCo/carolina-barbecue)**: Barbecue in North and South Carolina: styles, sauces, dishes, pit practice, places, people, events and words
+- **[buffalo-wings](https://github.com/NaNoBotCo/buffalo-wings)**: Wing Country — the chicken wing in the United States: 13 regional styles, 22 sauce labels read off the panel, places, people, words
+- **[pink-box](https://github.com/NaNoBotCo/pink-box)**: The American mom-and-pop donut shop: cake or raised, egg rolls in the case, and who's been up since two
+- **[basque-tables](https://github.com/NaNoBotCo/basque-tables)**: Basque dining rooms in California, Nevada and Idaho — seating, prices, published days and the Picon Punch
+- **[pinot-noir](https://github.com/NaNoBotCo/pinot-noir)**: Pinot noir: the vine, the ground, the cellars, the words — and a long read on Santa Maria tri-tip
+- **[pike-place-market](https://github.com/NaNoBotCo/pike-place-market)**: A directory and GIS map of the Pike Place Market Historical District, Seattle — 12.83 acres, 153 licensed businesses, and the dates the city has on them
+- **[care-abroad](https://github.com/NaNoBotCo/care-abroad)**: Treatment across borders: countries, city clusters, procedures, hospitals, published prices with their dates, the law where the law is the reason, and the risks
 
 ### Marketplaces & services
 
@@ -61,6 +91,10 @@ Digitizing a living Northern Thai tradition so it's legible to AI without flatte
 - **[feed-detox](https://github.com/NaNoBotCo/feed-detox)**: A done-*with*-you social-feed cleanup: personalized playbook, customer keeps their own login
 - **[food-pantry](https://github.com/NaNoBotCo/food-pantry)**: OCR pipeline for pantry intake forms
 - **[offramp](https://github.com/NaNoBotCo/offramp)**: The manual for getting paid in crypto and spending it locally without a local bank account
+- **[scanner](https://github.com/NaNoBotCo/scanner)**: A page scanner that runs in the phone's browser: capture, straighten, flatten, sign, PDF
+- **[stocktake](https://github.com/NaNoBotCo/stocktake)**: Re-derives what exists across your projects, domains and Cloudflare Workers, instead of remembering it
+- **[traffic-eye](https://github.com/NaNoBotCo/traffic-eye)**: Who is asking for your pages — people, AI crawlers, search engines, scrapers — across your sites, in one place
+- **[uptake](https://github.com/NaNoBotCo/uptake)**: Publishing for machines that copy. A field manual for the web after search, built on 14 days of repository traffic: 961 clones from 501 distinct machines against 36 page views
 
 ### Games & play
 
@@ -83,6 +117,7 @@ Digitizing a living Northern Thai tradition so it's legible to AI without flatte
 ### Sites
 
 - **[nanobotco.github.io](https://github.com/NaNoBotCo/nanobotco.github.io)**: This account's personal portal — [live here](https://nanobotco.github.io)
+- **[index](https://github.com/NaNoBotCo/index)**: Everything this account holds, counted once, at one address — [live here](https://nanobotco.github.io/index/)
 - **[defiant-site](https://github.com/NaNoBotCo/defiant-site)**: [defiant.to](https://defiant.to) — expat & medical-tourism concierge, Chiang Mai
 
 ---
