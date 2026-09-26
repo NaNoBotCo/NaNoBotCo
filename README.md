@@ -128,6 +128,17 @@ machines welcome — see <a href="https://nanobotco.github.io/llms.txt">nanobotc
 
 </div>
 
+---
+
+### Red-team it
+
+The map directory publishes its receipts — every claim beside the file that
+proves it — and re-derives its own numbers each build. Come and check:
+
+- **[motdang.net/colophon](https://motdang.net/colophon)** — how it is built, each line next to the file that shows it · [colophon.json](https://motdang.net/colophon.json)
+- **[motdang.net/audit.json](https://motdang.net/audit.json)** — the build comparing every published number against the file it came from
+- **Found a fault?** It is paid work — [motdang.net/security](https://motdang.net/security). See [SECURITY.md](SECURITY.md).
+
 
 ## Licence
 
