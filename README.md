@@ -10,7 +10,7 @@
 
 ---
 
-I make things that work like magic, with digital tools. Some of it is old knowledge I'm carrying into a form machines can read faithfully — manuscripts, taxonomies, living tradition. Some of it is a tool that needed to exist. 107 public repositories; most have a live page.
+I make things that work like magic, with digital tools. Some of it is old knowledge I'm carrying into a form machines can read faithfully — manuscripts, taxonomies, living tradition. Some of it is a tool that needed to exist. 110 public repositories; most have a live page.
 
 ฉันสร้างสิ่งที่ทำงานเหมือนเวทมนตร์ด้วยเครื่องมือดิจิทัล — ความรู้โบราณที่เครื่องจักรอ่านได้ และเครื่องมือที่ควรมีอยู่
 
@@ -109,7 +109,7 @@ Physics, maths and machines — the equations printed and read out loud.
 </details>
 
 <details>
-<summary><b>Living tradition — Lanna, wichaa, manuscripts</b> · ล้านนา วิชา ใบลาน — 17</summary>
+<summary><b>Living tradition — Lanna, wichaa, manuscripts</b> · ล้านนา วิชา ใบลาน — 18</summary>
 
 
 A living Northern Thai tradition, made legible to AI without flattening it.
@@ -124,6 +124,7 @@ A living Northern Thai tradition, made legible to AI without flattening it.
 - **[st-expedite-wiki](https://github.com/NaNoBotCo/st-expedite-wiki)**: A third corpus, bilingual-transcribed: the Saint-Expédit devotional tradition
 - **[taoist-oracle](https://github.com/NaNoBotCo/taoist-oracle)**: Stdlib divination engine — I Ching, Plum Blossom, Wen Wang Gua, Bazi
 - **[lanna-almanac](https://github.com/NaNoBotCo/lanna-almanac)**: Northern-reckoning almanac widget, parity-tested against the coucal tradition
+- **[coucal-clock](https://github.com/NaNoBotCo/coucal-clock)**: A Lanna lunar almanac clock for a wat in San Sai: carved teak, a greater coucal, an e-ink face
 - **[hand-poke](https://github.com/NaNoBotCo/hand-poke)**: Traditions of marking skin by hand, worldwide: 28 traditions, bilingual English and Thai, claims tiered and sourced
 - **[amulet-atlas](https://github.com/NaNoBotCo/amulet-atlas)**: Amulets, charms and talismans worldwide — one JSON record per node, fields carrying where they came from. Equal Earth maps, a deep timeline, the signs drawn
 - **[amulet-essentials](https://github.com/NaNoBotCo/amulet-essentials)**: A pan-Southeast-Asian amulet catalogue: 87 kinds in their own languages, 637 free pictures with verified licences, on-device photo identification, a price analysis of 15,300 listings
@@ -189,10 +190,11 @@ One JSON record per node, fields carrying where they came from.
 </details>
 
 <details>
-<summary><b>Tools, marketplaces and services</b> · เครื่องมือ ตลาด และบริการ — 18</summary>
+<summary><b>Tools, marketplaces and services</b> · เครื่องมือ ตลาด และบริการ — 19</summary>
 
 
 - **[onemansideshow](https://github.com/NaNoBotCo/onemansideshow)**: The kit I run dozens of projects with, alone — free; setup ฿25,000 / US$25,000
+- **[open-weights](https://github.com/NaNoBotCo/open-weights)**: Open Weights · ตำราเปิด — OpenCode on open-weights models: a big-type launcher and a chat window in English and Thai, tested on seven models
 - **[cursitor](https://github.com/NaNoBotCo/cursitor)**: A litigation desk for Claude Code: deadlines with their arithmetic, pleading paper, exhibits, OCR. Pro se US$0 · firms US$25,000
 - **[hongdam-site](https://github.com/NaNoBotCo/hongdam-site)**: [hongdam.net](https://hongdam.net) — bilingual web studio, Chiang Rai: portfolio, AI red-team console, probe market
 - **[moving-day](https://github.com/NaNoBotCo/moving-day)**: Moving from one AI to another: export the chats, carry the memories, settle in — ten assistants covered
@@ -214,13 +216,14 @@ One JSON record per node, fields carrying where they came from.
 </details>
 
 <details>
-<summary><b>Games and play</b> · เกมและของเล่น — 6</summary>
+<summary><b>Games and play</b> · เกมและของเล่น — 7</summary>
 
 
 - **[moat-game](https://github.com/NaNoBotCo/moat-game)**: A text game about an amulet smuggler crossing Chiang Mai checkpoints in 2076
 - **[moat-stardew](https://github.com/NaNoBotCo/moat-stardew)**: "Charms of Chiang Mai" — a Stardew Valley mod bringing the same world into SMAPI
 - **[blinking-twelve](https://github.com/NaNoBotCo/blinking-twelve)**: blinky1200 — a skeuomorphic puzzle: set the blinking 12:00, eleven levels, 1987 → 2026
 - **[blinky-fidget](https://github.com/NaNoBotCo/blinky-fidget)**: A VCR to fiddle with — no goal, just the click of buttons and static
+- **[acr-hud](https://github.com/NaNoBotCo/acr-hud)**: A local HUD for ACR Poker: reads your hand histories, shows opponent stats big
 - **[poplucky](https://github.com/NaNoBotCo/poplucky)**: A trilingual collector's catalogue for Pop Mart blind boxes
 - **[skipdjt](https://github.com/NaNoBotCo/skipdjt)**: Fare comparison proving Fort Lauderdale/Miami beat flying from Palm Beach
 
