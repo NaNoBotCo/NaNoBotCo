@@ -45,7 +45,7 @@ Write: **[530kings@proton.me](mailto:530kings@proton.me)**
 
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=NaNoBotCo&layout=compact&hide_border=true&bg_color=0a080d&title_color=e7c66c&text_color=cfc7d6&langs_count=8" alt="Top languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=NaNoBotCo&hide_border=true&background=0a080d&fire=e7c66c&currStreakLabel=e7c66c&sideLabels=cfc7d6&dates=cfc7d6&currStreakNum=f2ecf7&sideNums=f2ecf7&stroke=3a3340&ring=d81f2c" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=NaNoBotCo&hide_border=true&background=0a080d&fire=e7c66c&currStreakLabel=e7c66c&sideLabels=cfc7d6&dates=cfc7d6&currStreakNum=f2ecf7&sideNums=f2ecf7&stroke=3a3340&ring=d81f2c&disable_animations=true" alt="GitHub streak"/>
 
 </div>
 
